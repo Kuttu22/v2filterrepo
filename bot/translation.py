@@ -6,13 +6,13 @@ class Translation(object):
     
     START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
 
-<b>Am Just A Pro Auto Filter Bot....😉</b>
+<b>Am Just A Pro Auto Filter Bot....😎</b>
 
-<b>Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝</b>
+<b>You can't add me to group but you can deploy me 🔥🔥</b>
 
 <b>Watch the video below to build an Pro Autofilter bot like me...</b>
 
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
+<b>Subscribe to the update channel @Film world...</b>
 
 <b>Press /help to know about available commands🤪</b>"""    
     
@@ -59,5 +59,5 @@ class Translation(object):
 
 <b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://github.com/MRK-YT/Pro-Auto-Filter-Bot">💥Click Me</a></b>
+<b>➥ 📖Source Code</b> : <b><a href="https://github.com/Kuttu22/v2filterrepo/blob/main/bot/translation.py">💥Click Me</a></b>
 """

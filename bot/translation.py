@@ -59,5 +59,5 @@ class Translation(object):
 
 <b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://github.com/Kuttu22/v2filterrepo/blob/main/bot/translation.py">💥Click Me</a></b>
+<b>➥ 📖Source Code</b> : <b><a href="https://github.com/Kuttu22/v2filterrepo">💥Click Me</a></b>
 """

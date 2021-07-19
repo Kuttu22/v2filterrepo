@@ -29,7 +29,7 @@
 
   </a>
   
-  <a href="https://github.com/MRK-YT/Pro-Auto-Filter-Bot/fork">
+  <a href="https://github.com/Kuttu22/cy-HYBRID/fork">
     <img src="https://img.shields.io/github/forks/MRK-YT/Pro-Auto-Filter-Bot?label=Fork&style=social">
 
   </a>  

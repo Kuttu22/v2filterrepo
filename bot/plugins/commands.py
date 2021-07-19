@@ -23,7 +23,7 @@ async def start(bot, update):
         if (file_id or file_type) == None:
             return
         
-        caption = file_caption if file_caption != ("" or None) else ("<code>" + file_name + "</code>")
+        caption = file_caption if 🗃️ file_caption != ("" or None) else ("<code>" + file_name + "</code>")
         
         if file_type == "document":
         
@@ -136,7 +136,7 @@ async def help(bot, update):
 async def about(bot, update):
     
     buttons = [[
-        InlineKeyboardButton('👤 @𝙼𝚛𝚔_𝚈𝚃 👤', url='https://t.me/MRK_YT')
+        InlineKeyboardButton('👤 @KuttuThomas 👤', url='https://t.me/KuttuThomas')
     ],[
         InlineKeyboardButton('👤 @𝙰𝚕𝚋𝚎𝚛𝚝𝙴𝚒𝚗𝚜𝚝𝚎𝚒𝚗𝚃𝙶 👤', url='https://t.me/AlbertEinsteinTG')
     ],[
